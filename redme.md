@@ -3,3 +3,5 @@
 -estado del proyecto: En construcción.
 
 para ejecutar el sistema, debes poner:
+
+sistema de registro
